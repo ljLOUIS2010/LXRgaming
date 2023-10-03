@@ -1,0 +1,30 @@
+body{
+  background-image: url(OIP.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover
+
+}
+.main{
+   position: absolute;
+    right: 30%;
+    width: 460px;
+    border:2px solid #000;
+    padding: 40px;
+    background-color: rgba(0,0,0,0.3);
+    color: #fff;
+    border-radius: 12px;
+    padding-top: 80px;
+    
+}
+#file::-webkit-file-upload-button{
+  visibility: hidden;  
+}
+
+#file{
+    width: 84%;
+    height: 55px;
+    padding-top: 23px;
+    padding-left: 20px;
+}
+
